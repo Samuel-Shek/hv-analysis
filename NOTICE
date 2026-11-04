@@ -1,0 +1,19 @@
+hv-analysis
+Copyright (c) 2026 Samuel Shek (modifications)
+
+本项目改编自以下 MIT 许可作品：
+This project is adapted from the following MIT-licensed work:
+
+KKKKhazix/khazix-skills — hv-analysis
+https://github.com/KKKKhazix/khazix-skills
+Copyright (c) 2026 数字生命卡兹克 — MIT License
+基于 commit c6d097b020bea94d93d60d05f204bca63c165840
+
+- 横纵分析法的方法框架来自原作者。 / The horizontal-vertical analysis method comes from the original author.
+- SKILL.md 与 references/*.md 为重写版本（v2.0.0）。 / Rewritten.
+- references/schema.json 基于原版修改。 / Modified from the original.
+- scripts/md_to_pdf.py 基于原版修改：作者行默认不显示，只在调用方明确
+  指定时输出，并对作者名做 HTML 转义。 / Modified from the original: the author
+  line is omitted unless explicitly provided, and is HTML-escaped.
+
+完整许可证见 LICENSE。 / See LICENSE for the full license text.
